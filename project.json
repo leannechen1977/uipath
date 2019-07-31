@@ -1,0 +1,31 @@
+{
+  "name": "YouTube_HUB_LC",
+  "description": "YouTube challenge for HUB week\r\nAuthor - LeAnne Chen",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.Excel.Activities": "[2.5.4]",
+    "UiPath.GSuite.Activities": "1.2.0",
+    "UiPath.Mail.Activities": "[1.4.1]",
+    "UiPath.PDF.Activities": "2.1.0",
+    "UiPath.System.Activities": "[19.4.1]",
+    "UiPath.UIAutomation.Activities": "[19.4.2]",
+    "UiPathTeam.AttendedRobotStatus.Activities": "1.0.30"
+  },
+  "schemaVersion": "3.2",
+  "studioVersion": "19.4.4.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ]
+  },
+  "projectType": "Workflow",
+  "libraryOptions": {
+    "includeOriginalXaml": false,
+    "privateWorkflows": []
+  },
+  "webServices": []
+}
